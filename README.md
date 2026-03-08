@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello👋 I'm Rubashree
 
-<!--
-**rubashree0301/rubashree0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Passionate about AI, Machine Learning , Problem Solver and Software Development 
 
-Here are some ideas to get you started:
+🚀 Skills
+Java C Python
+HTML5 CSS3 JavaScript
+SQL MongoDB
+Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Stats
+Rubashree's GitHub Stats
+Top Langs
+
+📫  Let's Contact
+📧 Email: rubashree0301@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/rubashree0301
